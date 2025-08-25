@@ -1,0 +1,4 @@
+com/awscodesnippet/S3DemoApplication/S3DemoApplication.class
+com/awscodesnippet/S3DemoApplication/controller/S3Controller.class
+com/awscodesnippet/S3DemoApplication/config/S3Config.class
+com/awscodesnippet/S3DemoApplication/service/S3Service.class
